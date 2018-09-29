@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Sasha Katushkova](https://up.htmlacademy.ru/adaptive/15/user/280363).
-* Наставник: `Неизвестно`.
+* Наставник: `nobody`.
 
 ---
 
